@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/website-react-scss/static/css/main.de2ecb57.chunk.css",
+    "main.js": "/website-react-scss/static/js/main.e8c54c53.chunk.js",
+    "main.js.map": "/website-react-scss/static/js/main.e8c54c53.chunk.js.map",
+    "runtime-main.js": "/website-react-scss/static/js/runtime-main.2f78c096.js",
+    "runtime-main.js.map": "/website-react-scss/static/js/runtime-main.2f78c096.js.map",
+    "static/js/2.cb41a534.chunk.js": "/website-react-scss/static/js/2.cb41a534.chunk.js",
+    "static/js/2.cb41a534.chunk.js.map": "/website-react-scss/static/js/2.cb41a534.chunk.js.map",
+    "index.html": "/website-react-scss/index.html",
+    "static/css/main.de2ecb57.chunk.css.map": "/website-react-scss/static/css/main.de2ecb57.chunk.css.map",
+    "static/js/2.cb41a534.chunk.js.LICENSE.txt": "/website-react-scss/static/js/2.cb41a534.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f78c096.js",
+    "static/js/2.cb41a534.chunk.js",
+    "static/css/main.de2ecb57.chunk.css",
+    "static/js/main.e8c54c53.chunk.js"
+  ]
+}
